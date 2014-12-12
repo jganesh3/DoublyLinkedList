@@ -1,0 +1,30 @@
+re
+removeSong Girl On Fire
+playCurrent
+appendSong Girl On Fire
+appendSong Better Dig Two
+appendSong Sure Be Cool If You Did
+playReverse
+gotoSong Better Dig Two
+playCurrent
+insertBefore Catch My Breath
+playCurrent
+playForward
+insertAfter We Are Never Ever Getting Back Together
+playReverse
+insertBefore I Knew You Were Trouble
+playCurrent
+gotoSong Sure Be Cool If You Did
+insertAfter Little Talk
+gotoFirstSong
+insertBefore Some Nights
+playForward
+insertAfter I'm Different
+playReverse
+removeSong We Are Never Ever Getting Back Together
+gotoFirstSong
+playForward
+removeSong Some Nights
+playCurrent
+gotoLastSong
+playReverse
