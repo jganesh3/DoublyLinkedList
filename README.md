@@ -1,2 +1,2 @@
 
-Doubly link list implementation in C
+Doubly link list implementation in CPP
